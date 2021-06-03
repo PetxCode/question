@@ -30,9 +30,19 @@ const Quistion = () => {
       question6,
       question7,
       question8,
-      question9,
-     
+      question9,   
     })
+    setName("")
+    setQuestion("")
+    setQuestion1("")
+    setQuestion2("")
+    setQuestion3("")
+    setQuestion4("")
+    setQuestion5("")
+    setQuestion6("")
+    setQuestion7("")
+    setQuestion8("")
+    setQuestion9("")
   }
 
   return (
